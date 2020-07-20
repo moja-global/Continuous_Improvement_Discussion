@@ -35,9 +35,6 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 
 The following people are Maintainers Reviewers Ambassadors or Coaches  
 
-<table><tr><td align="center"><a href="https://github.com/Tlazypanda"><img src="https://avatars0.githubusercontent.com/u/33183263?v=4" width="100px;" alt=""/><br /><sub><b>Sneha Mishra</b></sub></a><br /><a href="https://github.com/moja-global/About_moja_global/commits?author=Tlazypanda" title="Documentation">📖</a></td>
-  <td align="center"><a href="https://github.com/gmajan"><img src="https://avatars0.githubusercontent.com/u/8733319?v=4" width="100px;" alt="Guy Janssen"/><br /><sub><b>Guy Janssen</b></sub></a><br /><a href="#maintenance-gmajan" title="Maintenance">🚧</a> <td align="center"><a href="https://github.com/Patamap"><img src="https://avatars3.githubusercontent.com/u/59905399?v=4" width="100px;" alt=""/><br /><sub><b>Patamap</b></sub></a><br /><a href="https://github.com/moja-global/About_moja_global/commits?author=Patamap" title="Documentation">📖</a></td></tr></table>
-
 
 **Maintainers** review and accept proposed changes  
 **Reviewers** check proposed changes before they go to the Maintainers  
