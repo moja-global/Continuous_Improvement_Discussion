@@ -1,7 +1,7 @@
-# Continous Improvement Discussion
+# Continuous Improvement Discussion
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors)
 
-This repository is aimed to enable contributors to suggest improvements in our flagship software FLINT and its subsidiary reposotories in terms of Security, Performance, Scalability, Quality Assurance, User Experience and Interface etc. If you have ideas on how we can improve, please share them with us by creating a new issue. We also invite the contributors to peer review each others ideas and provide feedback/suggestions. We would be glad to receive your ideas and would get back to you as soon as possible. 
+This repository is aimed to enable contributors to suggest improvements in our flagship software FLINT and its subsidiary repositories in terms of Security, Performance, Scalability, Quality Assurance, User Experience and Interface etc. If you have ideas on how we can improve, please share them with us by creating a new issue. We also invite the contributors to peer review each others ideas and provide feedback/suggestions. We would be glad to receive your ideas and would get back to you as soon as possible. 
 
 
 ## How to Get Involved?  
